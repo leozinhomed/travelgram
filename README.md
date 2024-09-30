@@ -2,8 +2,6 @@
 
 ## **Perfil de viagens incrível** 📸✈️
 
----
-
 Bem-vindo ao **Travelgram**! Aqui você pode compartilhar suas aventuras pelo mundo e se inspirar com as histórias dos outros viajantes.
 
 ---
@@ -48,20 +46,6 @@ Definimos variáveis CSS no `:root` para um esquema de cores coeso:
 }
 ```
 
-## 👤 **Perfil do Usuário**
-
-html
-
-<header>
-  <div class="container">
-    <div id="profile">
-      <img src="assets/images/Profile pic.jpg" alt="Imagem de Leonardo M">
-      <div>
-        <h1>Leonardo Medeiros</h1>
-        <p>Amante de viagens, cultura e gastronomia. 🌍✈️ Aqui compartilho as histórias registradas em cada clique, explorando cantinhos fascinantes do nosso planeta a partir da maravilhosa cidade do Rio de Janeiro. 🏙️📸</p>
-      </div>
-    </div>
-    
 ---
 
 ## 🚀 **Deploy**
